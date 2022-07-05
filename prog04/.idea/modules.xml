@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/WallpaperApp.iml" filepath="$PROJECT_DIR$/.idea/modules/WallpaperApp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/WallpaperApp.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/WallpaperApp.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/WallpaperApp.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/WallpaperApp.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/WallpaperApp.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/WallpaperApp.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/WallpaperApp.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/WallpaperApp.app.unitTest.iml" />
+    </modules>
+  </component>
+</project>
